@@ -22,8 +22,8 @@ namespace AzureFaceId
 
         const string _subscriptionKey = "";
         static FaceServiceClient faceServiceClient = new FaceServiceClient(_subscriptionKey, "https://southeastasia.api.cognitive.microsoft.com/face/v1.0");
-        const string personGroupId = "anildwaid1";
-        const string personGroupName = "anildwa1";
+        const string personGroupId = "MindtreeGroupId";
+        const string personGroupName = "Mindtree";
 
         // GET: api/values
         [HttpGet]
@@ -104,7 +104,7 @@ namespace AzureFaceId
 
         public static async Task<CloudTable> CreateTableAsync(string tableName)
         {
-            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("");
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("StorageAccountConnectionString");
             CloudTableClient tableClient = storageAccount.CreateCloudTableClient();
 
             CloudTable table = tableClient.GetTableReference(tableName);

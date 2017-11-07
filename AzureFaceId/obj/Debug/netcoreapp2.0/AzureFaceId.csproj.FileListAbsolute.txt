@@ -1,0 +1,11 @@
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\bin\Debug\netcoreapp2.0\AzureFaceId.deps.json
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\bin\Debug\netcoreapp2.0\AzureFaceId.runtimeconfig.json
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\bin\Debug\netcoreapp2.0\AzureFaceId.runtimeconfig.dev.json
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\bin\Debug\netcoreapp2.0\AzureFaceId.dll
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.csprojResolveAssemblyReference.cache
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.csproj.CoreCompileInputs.cache
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.AssemblyInfoInputs.cache
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.AssemblyInfo.cs
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\bin\Debug\netcoreapp2.0\AzureFaceId.pdb
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.dll
+c:\users\anildwa.fareast\Source\repos\AzureFaceId\AzureFaceId\obj\Debug\netcoreapp2.0\AzureFaceId.pdb
